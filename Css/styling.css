@@ -1,0 +1,34 @@
+ h1 {
+ 	color:pink ;
+
+ }
+ body {
+ 	background-color: #efefef ;
+ 	font-family: arial;
+ }
+ h1{
+ 	background color: blue  ;
+ 	font-family: var();
+ }
+ p{
+ 	background-color:blue ;
+ 	font color: blue;
+ }
+ section{
+ 	background-color: maroon;
+ }
+float{
+	left: ;
+}
+section{
+	width:30% ;
+	background color: yellowgreen;
+	height: 400px;
+	display:  inline-block;
+	float:left;
+	overflow: visible;
+	display: table-cell;
+}
+img{
+	background: yellow;
+}
